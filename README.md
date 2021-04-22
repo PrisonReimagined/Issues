@@ -1,4 +1,4 @@
-# [Submit Bug Report](https://github.com/PrisonReimagined/Issues/issues/new)
+# [Submit Bug Report](https://github.com/PrisonReimagined/Issues/issues/new/choose)
 
 If you have found a bug or exploit while playing prison reimagined, from anything as small as a spelling mistake to a a major bug, please report it!
 
